@@ -6,8 +6,8 @@
 <br>
 <p align="center">
   <span>
-    <a href="https://npmjs.com/package/kowind"><img src="https://img.shields.io/npm/v/kowind?style=flat" alt="version"></a>
-    <a href="https://nodejs.org/en/about/releases/"><img src="https://img.shields.io/npm/dw/kowind?style=flat" alt="npm-download"></a>
+    <a href="https://npmjs.com/package/create-kowind"><img src="https://img.shields.io/npm/v/create-kowind?style=flat" alt="version"></a>
+    <a href="https://nodejs.org/en/about/releases/"><img src="https://img.shields.io/npm/dw/create-kowind?style=flat" alt="npm-download"></a>
   </span>
 
 </p>
@@ -54,9 +54,9 @@ Vite is a build tool that aims to provide a faster and leaner development experi
 
 > Just run the following commands in your terminal.
 ```
-    $ yarn create kowind <project-name>
+    $ yarn create kowindv3 <project-name> --template <template-name>
     #or
-    $ npm init kowind <project-name>
+    $ npm init kowindv3 <project-name> --template <template-name>
 
     $ cd <project-name>
 ```
